@@ -9,7 +9,7 @@
 
 ## How to Run the Program
 1. Open VS Code
-2. Install required pygame bcrypt if not already installed: pip install pygame bcrypt
+2. Install required pygame bcrypt if not already installed: pip install pygame and pip install bcrypt
 3. Run the main file: python main.py
 4. Follow the on-screen instructions to log in, sign up, and play.
 
